@@ -1,4 +1,5 @@
-/* This program executes the simulation. All computation is done in this code.
+/* This program executes the simulation. 
+ * All computation is done in this code.
  * All data is recorded in binary files to be used by the other program.
 */
 
