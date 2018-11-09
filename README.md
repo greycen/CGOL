@@ -1,2 +1,2 @@
 # CGOL
-A primitive implementation of Conway's Game of Life
+A really primitive implementation of Convay's Game of Life
